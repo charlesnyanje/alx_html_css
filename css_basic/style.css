@@ -1,7 +1,8 @@
 body{
     display:flex;
     flex-direction:column;
-    
+    background-color: beige;
+    color: rgb(117, 115, 115);
 }
 main{
     display: flex;
@@ -16,4 +17,16 @@ article{
 aside{
     flex:1;
     overflow-y: auto;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+table{
+    height: 60%;
+    width: 100%;
+}
+td,th{
+    border: 1px solid #999;
+    padding: 0.5rem;
 }
