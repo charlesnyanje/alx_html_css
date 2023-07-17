@@ -526,7 +526,7 @@ html {
   }
   /* Section Latest news ============================= */
 
-  .section-body>.row {
+  .section-latest-news  .row {
     flex-direction: row-reverse;
   }
   /*** 4. CARD ***/
