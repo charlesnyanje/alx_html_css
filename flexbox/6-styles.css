@@ -374,7 +374,7 @@ html {
   }
   
   .nav .nav-item + .nav-item {
-    margin-left: var(--nav-item-margin);
+    margin: var(--nav-item-margin);
   }
   .nav .nav-link {
     display: block;
