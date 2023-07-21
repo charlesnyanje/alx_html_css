@@ -132,3 +132,26 @@ button a{
 .details__h2{
     font-size:14px;
 }
+.section__1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    position: relative;
+    background-color: #C271FF;
+    height: 392px;
+    gap: 4rem;
+    color: #FFFFFF;
+    width: 100vw;
+}
+blockquote p{
+    line-height: 1.3rem;
+}
+.person__details{
+    position: inherit;
+    margin-top: 20px;
+}
+.person__details h2{
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+}
